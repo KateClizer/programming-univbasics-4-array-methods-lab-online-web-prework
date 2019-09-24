@@ -8,7 +8,8 @@ clizer_fam.sort
 end
 
 def using_reverse(array)
-
+clizer_fam = ["wow", "Kate", "I", "Judson"]
+clizer_fam.reverse
 end
 
 def using_first(array)
