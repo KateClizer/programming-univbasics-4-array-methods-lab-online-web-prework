@@ -23,5 +23,6 @@ clizer_fam.last
 end
 
 def using_size(array)
-
+clizer_fam = ["wow", "Kate", "I", "arrays!"]
+clizer_fam.size
 end
