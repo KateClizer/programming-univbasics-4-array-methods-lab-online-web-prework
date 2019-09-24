@@ -1,9 +1,10 @@
 def using_include(array, element)
-
+array.include?(element)
 end
 
 def using_sort(array)
-
+clizer_fam = ["wow", "Kate", "I", "Judson"]
+clizer_fam.sort
 end
 
 def using_reverse(array)
