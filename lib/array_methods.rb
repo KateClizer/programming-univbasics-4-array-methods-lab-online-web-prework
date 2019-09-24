@@ -13,11 +13,13 @@ clizer_fam.reverse
 end
 
 def using_first(array)
-
+clizer_fam = ["wow", "Kate", "I", "arrays!"]
+clizer_fam.first
 end
 
 def using_last(array)
-
+clizer_fam = ["wow", "Kate", "I", "arrays!"]
+clizer_fam.last
 end
 
 def using_size(array)
